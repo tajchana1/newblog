@@ -1,12 +1,8 @@
 ---
-title: Show Disqus
-date: "2019-06-10T22:40:32.169Z"
-tags: ['2019']
+title: Test 2
+date: "2020-08-29"
+tags: ['2020']
 disqus: true
 ---
 
-How to show disqus?
-
-* Get DisqusShortName from [disqus.com](disqus.com)
-* Set DisqusShortName in gatsby-config.js
-* Add [disqus: true] to enable Disqus
+This is how we do it !
