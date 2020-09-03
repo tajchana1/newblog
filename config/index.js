@@ -6,7 +6,7 @@ const site = {
   siteUrl: 'https://gatsby-starter-blog-demo.netlify.com/',
   twitter: 'tajchana',
   github: 'tajchana1/git-github',
-  Linkedin: 'thundermiracle',
+  linkedin: 'linkedin.com/in/taj-chana',
   disqusShortName: 'Test',
   googleTrackingId: '',
   lang: 'en',
