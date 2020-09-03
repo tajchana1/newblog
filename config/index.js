@@ -1,6 +1,6 @@
 const site = {
   pathPrefix: '/Test',
-  title: 'TSC Cloud Consultant',
+  title: 'TSC Cloud Consultant Ltd',
   author: 'Taj Chana',
   description: '',
   siteUrl: 'https://gatsby-starter-blog-demo.netlify.com/',
